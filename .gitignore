@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+
+*.psd
+*.ai
+.DS_Store
+*.txt
+!README.txt
+_fonts/
+
+
